@@ -1,11 +1,11 @@
 # Site settings
-author: Dorthy P Thielsen
-title: 
+author: Dorthy Thielsen
+title: .code
 header-img: img/home-bg.png
 email: dotinmotionproductions@gmail.com
-copyright_name: Dorthy P Thielsen
+copyright_name: Dorthy Thielsen
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Dot's coding adventure
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dotinmotion
